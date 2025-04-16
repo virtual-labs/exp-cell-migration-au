@@ -2,38 +2,48 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The main purpose of the scratch assay in tissue culture studies.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To measure DNA replication rate",
+        "b": "To assess cell migration and proliferation during wound healing",
+        "c": "To determine cell viability",
+        "d": "To test antibiotic resistance"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+ 
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
+
+    	 
+    	 
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. The factors that can influence the speed of gap closure in a scratch assay",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Type of microscope used",
+        "b": "Cell type, culture conditions, and size of the wound",
+        "c": "Temperature of the incubator only",
+        "d": "Age of the researcher"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. In this assay, the type of plate used is ",
+      "answers": {
+        "a": "6-well plate",
+        "b": "12-well plate",
+        "c": "24-well plate",
+        "d": "96-well plate"
       },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
-}
+}	 
+	 
+	 
