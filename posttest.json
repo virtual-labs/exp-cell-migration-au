@@ -1,0 +1,49 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The main purpose of the scratch assay in tissue culture studies.",
+      "answers": {
+        "a": "To measure DNA replication rate",
+        "b": "To assess cell migration and proliferation during wound healing",
+        "c": "To determine cell viability",
+        "d": "To test antibiotic resistance"
+      },
+ 
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    	 
+    	 
+
+    {
+      "question": "2. The factors that can influence the speed of gap closure in a scratch assay",
+      "answers": {
+        "a": "Type of microscope used",
+        "b": "Cell type, culture conditions, and size of the wound",
+        "c": "Temperature of the incubator only",
+        "d": "Age of the researcher"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. In this assay, the type of plate used is ",
+      "answers": {
+        "a": "6-well plate",
+        "b": "12-well plate",
+        "c": "24-well plate",
+        "d": "96-well plate"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
+	 
