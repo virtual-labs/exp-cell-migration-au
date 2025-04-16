@@ -2,15 +2,15 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Hemocytometer was invented by ------",
+      "question": "1. The main purpose of the scratch assay in tissue culture studies.",
       "answers": {
-        "a": "Wallace H Coulter",
-        "b": "Bonner Sweet",
-        "c": "Louis Charles Malassez",
-        "d": "Claude Bernard"
+        "a": "To measure DNA replication rate",
+        "b": "To assess cell migration and proliferation during wound healing",
+        "c": "To determine cell viability",
+        "d": "To test antibiotic resistance"
       },
  
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
 
@@ -18,12 +18,12 @@
     	 
 
     {
-      "question": "2. The central square of hemocytometer is divided into-------- number of squares.",
+      "question": "2. The factors that can influence the speed of gap closure in a scratch assay",
       "answers": {
-        "a": "20",
-        "b": "25",
-        "c": "30",
-        "d": "35"
+        "a": "Type of microscope used",
+        "b": "Cell type, culture conditions, and size of the wound",
+        "c": "Temperature of the incubator only",
+        "d": "Age of the researcher"
       },
       
       "correctAnswer": "b",
@@ -32,15 +32,15 @@
 
     
     {
-      "question": "3. Find the percentage of viable cells, if there is a total of 150 cells including 120 unstained cells.",
+      "question": "3. In this assay, the type of plate used is ",
       "answers": {
-        "a": "80",
-        "b": "65",
-        "c": "70",
-        "d": "75"
+        "a": "6-well plate",
+        "b": "12-well plate",
+        "c": "24-well plate",
+        "d": "96-well plate"
       },
      
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
