@@ -1,1 +1,3 @@
-### Aim of the experiment
+### Objective
+
+To study the cell migration process.
